@@ -1,0 +1,23 @@
+<resources>
+    <string-array name="units_array">
+        <!-- Length Units -->
+        <item>Meters</item>
+        <item>Kilometers</item>
+        <item>Miles</item>
+
+        <!-- Weight Units -->
+        <item>Grams</item>
+        <item>Kilograms</item>
+        <item>Pounds</item>
+
+        <!-- Temperature Units -->
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+
+        <!-- Volume Units -->
+        <item>Liters</item>
+        <item>Milliliters</item>
+        <item>Cubic Meters</item>
+    </string-array>
+</resources>
